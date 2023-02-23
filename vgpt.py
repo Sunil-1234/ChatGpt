@@ -31,7 +31,7 @@ texts = text_splitter.split_text(state_of_the_union)
 
 embeddings = OpenAIEmbeddings()
 
-import chromadb
+
 import pandas as pd
 df=pd.read_csv('https://github.com/Sunil-1234/ChatGpt.git/pat_data.csv')
 df=df[:60]
