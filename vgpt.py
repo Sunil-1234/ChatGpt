@@ -24,7 +24,7 @@ from langchain.prompts import PromptTemplate
 import os
 os.environ['OPENAI_API_KEY'] = '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'
 
-with open('https://github.com/Sunil-1234/ChatGpt.git/text.txt') as f:
+with open('text.txt') as f:
     state_of_the_union = f.read()
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 texts = text_splitter.split_text(state_of_the_union)
