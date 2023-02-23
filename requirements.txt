@@ -6,9 +6,7 @@ alabaster
 alembic
 altair
 amqp
-anaconda-client
-anaconda-navigator
-anaconda-project
+
 analytics-python
 ansi2html
 anyio
