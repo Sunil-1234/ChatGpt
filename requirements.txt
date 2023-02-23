@@ -73,14 +73,6 @@ colorlover
 colour
 commonmark
 comtypes
-conda
-conda-build
-conda-content-trust
-conda-pack
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify
 confection
 conllu
 constantly
