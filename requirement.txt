@@ -223,7 +223,7 @@ keyring @ file:///C:/ci/keyring_1638531673471/work
 kiwisolver @ file:///C:/ci/kiwisolver_1644962577370/work
 kmodes==0.12.2
 kombu==5.2.4
-langchain==0.0.92
+langchain
 langcodes==3.3.0
 lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
