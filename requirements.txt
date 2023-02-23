@@ -225,7 +225,6 @@ marshmallow-enum==1.5.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.2
 mccabe==0.6.1
-menuinst
 mercury==1.1.6
 mistune==2.0.4
 mkl-fft==1.3.1
