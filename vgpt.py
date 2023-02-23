@@ -33,7 +33,7 @@ embeddings = OpenAIEmbeddings()
 
 
 import pandas as pd
-df=pd.read_csv('https://github.com/Sunil-1234/ChatGpt.git/pat_data.csv')
+df=pd.read_csv('pat_data.csv')
 df=df[:60]
 df.drop(['Unnamed: 0','patientmasterkey','patientrecordkey'],axis=1,inplace=True)
 
