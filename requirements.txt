@@ -244,7 +244,7 @@ munkres==1.1.4
 murmurhash==1.0.9
 mypy-extensions==0.4.3
 nannyml==0.8.1
-navigator-updater==0.2.1
+navigator-updater
 nbclassic==0.3.5
 nbclient==0.5.13
 nbconvert==7.2.7
