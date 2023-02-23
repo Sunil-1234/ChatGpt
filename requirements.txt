@@ -115,10 +115,10 @@ docutils==0.17.1
 dtreeviz==1.4.1
 duckdb==0.7.0
 editdistance==0.6.0
-en-core-med7-lg==3.4.2.1
-en-core-med7-trf==3.4.2.1
-en-core-sci-md==0.2.4
-en-ner-bc5cdr-md==0.5.1
+en-core-med7-lg
+en-core-med7-trf
+en-core-sci-md
+en-ner-bc5cdr-md
 entrypoints==0.4
 enum-compat==0.0.3
 et-xmlfile==1.1.0
