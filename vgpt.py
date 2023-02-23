@@ -12,7 +12,7 @@ Original file is located at
 #pip install openai
 
 #pip install chromadb
-import langchain
+#import langchain
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.embeddings.cohere import CohereEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
