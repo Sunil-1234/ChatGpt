@@ -215,7 +215,6 @@ scikit-learn==1.0.2
 scipy==1.9.0
 SecretStorage==3.3.3
 semver==2.13.0
-Send2Trash==1.6.0b1
 sentence-transformers==2.2.2
 sentencepiece==0.1.97
 shellescape==3.8.1
