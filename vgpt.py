@@ -22,7 +22,7 @@ from langchain.docstore.document import Document
 from langchain.prompts import PromptTemplate
 
 import os
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 
 with open('text.txt') as f:
     state_of_the_union = f.read()
